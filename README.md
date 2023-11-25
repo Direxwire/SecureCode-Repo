@@ -14,7 +14,7 @@ En la carpeta `docs/`, encontrarás información detallada sobre el manejo de vu
 ## Vulnerabilidades
 
 En la carpeta `vulnerabilities/`, cada carpeta corresponde a una CVE específica. Dentro de estas carpetas, encontrarás detalles sobre la  bulnerabilidade(https://cve.mitre.org/cve/search_cve_list.html))
-  - [Parches](vulnerabilities/CVE-2023-XXXX/patches/)
+  - [Parches](vulnerabilities/CVE-2023/patches/)
 
 ## Código Fuente
 
