@@ -32,5 +32,3 @@ Las pruebas unitarias están ubicadas en la carpeta `tests/`. Asegúrate de ejec
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
 ```
-
-Asegúrate de personalizar este `README.md` según las necesidades específicas de tu proyecto y proporcionar información detallada sobre cómo contribuir, ejecutar pruebas y cualquier otra información relevante para los colaboradores.
